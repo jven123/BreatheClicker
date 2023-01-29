@@ -1,4 +1,4 @@
 **IMPORTANT**
 
 
-u need to download the logo and fonts and file in order to work
+u need to download the assets folder and exe file in order to work
