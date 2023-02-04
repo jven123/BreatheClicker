@@ -2,6 +2,7 @@
 
 Breathe air instead of vaping
 
+Latest version: 1.2.15beta
 
 **IMPORTANT:**
 
