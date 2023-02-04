@@ -1,5 +1,5 @@
 Breathe air instead of vape
-`ghost client of course`
+```Breathe is a ghost client of course```
 
 
 **IMPORTANT**
