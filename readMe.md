@@ -2,6 +2,10 @@
 
 Breathe air instead of vaping
 
+server: https://discord.gg/Jchr62cncP
+
+
+
 Latest version: 1.2.80beta
 
 **IMPORTANT:**
