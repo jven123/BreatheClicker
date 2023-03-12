@@ -1,4 +1,4 @@
-```Breathe is a ghost client of course```
+```Breathe is a autoclicker for minecraft of course```
 
 Breathe air instead of vaping
 
