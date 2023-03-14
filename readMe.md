@@ -4,8 +4,7 @@ Breathe air instead of vaping
 
 server: https://discord.gg/Jchr62cncP
 
-Credits: bambou(GitHub account: B4mb0u)
-This client is actually the fork of bambou because his client was outdated
+Credits: bambou(Original developer)(GitHub account: B4mb0u)
 
 Latest version: 1.0.0
 
