@@ -886,7 +886,7 @@ if __name__ == "__main__":
                     dpg.add_separator()
                     dpg.add_spacer(width=75)
 
-                    creditsText = dpg.add_text(default_value="Credits: jven830 (Developer)")
+                    creditsText = dpg.add_text(default_value="Credits: jven830 (Developer), Bambou (Original Developer")
                     githubText = dpg.add_text(default_value="https://discord.gg/Jchr62cncP")
 
 
