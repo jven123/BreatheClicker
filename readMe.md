@@ -6,6 +6,8 @@ server: https://discord.gg/Jchr62cncP
 
 Credits: bambou(Original developer)(GitHub account: B4mb0u)
 
+developers: ζ͜͡jven¹²³⚔#1479 , Bambou#5891
+
 Latest version: 1.0.0
 
 **IMPORTANT:**
