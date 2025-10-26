@@ -8,7 +8,7 @@ Credits: bambou(Original developer)(GitHub account: B4mb0u)
 
 developers: jven , Bambou
 
-Latest version: 1.4.1 beta
+Latest version: 1.4.0 beta
 
 **IMPORTANT:**
 
